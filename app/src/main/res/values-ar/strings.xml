@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+        قول مرحيا
+    </string>
+    <string name="firstname">الاسم الاول</string>
+    <string name="lastname">الاسم الثانى</string>
+    <string name="ok">حسنا</string>
+</resources>
